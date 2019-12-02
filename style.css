@@ -3,4 +3,10 @@
 }
 
 .student-contributor {
+    color:green;
+}
+
+.fromhome  {
+    color:red;
+    font-size: 24px;
 }
